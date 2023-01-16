@@ -9,4 +9,6 @@ This is a simple fullstack [Next.js](https://nextjs.org/) project with Supabase 
 
 Vercel for deployment
 
+https://supabase-nextjs-fullstack-mh9hfj5ep-6ix-ville.vercel.app/
+
 
