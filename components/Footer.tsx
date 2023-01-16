@@ -4,7 +4,7 @@ export default function Footer({}) {
         <div className=""></div>
         <div className="">
           <span className="text-sm">built by <a href="https://twitter.com/hammedctgr"
-                          target="_blank" rel="noopener">@hammedctgr</a></span>
+                          target="_blank" rel="noreferrer">@hammedctgr</a></span>
         </div>
         <div className="flex-end flex">
         </div>
